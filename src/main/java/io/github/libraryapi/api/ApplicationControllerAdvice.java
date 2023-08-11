@@ -1,4 +1,4 @@
-package io.github.libraryapi.api.resource;
+package io.github.libraryapi.api;
 
 import io.github.libraryapi.api.exception.ApiErrors;
 import io.github.libraryapi.api.exception.BusinessException;
